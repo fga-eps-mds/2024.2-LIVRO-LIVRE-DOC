@@ -1,5 +1,15 @@
 # Plano de custos
 
+## Versão 
+
+| **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**  |
+|-------------------|---------------------------------------------------| ----------- | --------------- |
+| Plano de custos v1 | Subindo documento versão 1                   | Matheus Monteiro | 06 de novembro de 2024 |
+| Plano de custos v1.1| Arrumando versões                    | Matheus Monteiro | 06 de novembro de 2024|
+| Plano de custos v1.2| Subindo versões para o topo                  | Matheus Monteiro | 06 de novembro de 2024|  
+
+---
+
 ## Cálculo do Custo por Aluno nas Universidades Federais: Estudo de Caso da Universidade de Brasília (UnB)
 
 De acordo com a reportagem *"Raio-X do custo por aluno nas universidades federais"*, publicada pelo jornal **O Globo** em 2016 [^1], o custo médio anual por aluno da **Universidade de Brasília (UnB)** era de **R$ 38.805,00**. Esse valor reflete o total de recursos financeiros necessários para manter um estudante em curso, considerando todas as despesas da instituição, como infraestrutura, salários de docentes e funcionários, entre outros gastos.
@@ -51,9 +61,4 @@ Esse cálculo leva em consideração o valor do tempo de estudo e os custos indi
 [^6]: Banco Central do Brasil. Calculadora de Ajuste de Inflação. Disponível em: [https://www.bcb.gov.br](https://www.bcb.gov.br)
 
 ---
-## Versão 
 
-| **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**  |
-|-------------------|---------------------------------------------------| ----------- | --------------- |
-| Plano de custos v1 | Subindo documento versão 1                   | Matheus Monteiro | 06 de novembro de 2024 |
-| Plano de custos v1.1| Arrumando versões                    | Matheus Monteiro | 06 de novembro de 2024| 
