@@ -13,6 +13,7 @@ A utilidade do **HeatMap** em projetos está em sua capacidade de otimizar o uso
 Abaixo temos a visualização da tabela de horário do time:
 
 
-![preview heatmap](../../seeds/planejamento-imagens/heatmap-preview.png)
+<iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuJTxsrMZQckVLt5LfzUw0-d-pgDUcFKQ8X1ijugNvVhsiPoN48Rk84k5lwqv7gUiFge5ghvUz4bF6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" />
+
 
 **Link:** [HeatMap](https://docs.google.com/spreadsheets/d/1bHnVTCpLXt4B1aCAXwiYF3UK9VB_C0pC81F1hnBW1nU/edit?gid=0#gid=0)
