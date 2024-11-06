@@ -6,7 +6,9 @@
 |-------------------|---------------------------------------------------| ----------- | --------------- |
 | Plano de custos v1 | Subindo documento versão 1                   | Matheus Monteiro | 06 de novembro de 2024 |
 | Plano de custos v1.1| Arrumando versões                    | Matheus Monteiro | 06 de novembro de 2024|
-| Plano de custos v1.2| Subindo versões para o topo                  | Matheus Monteiro | 06 de novembro de 2024|  
+| Plano de custos v1.2| Subindo versões para o topo                  | Matheus Monteiro | 06 de novembro de 2024| 
+| Plano de custos v1.3| Correção do documento                   | Mateus Maia | 06 de novembro de 2024| 
+
 
 ---
 
@@ -36,7 +38,7 @@ Por fim, ao aplicar esses cálculos ao desenvolvimento de projetos acadêmicos e
 
 Esse cálculo leva em consideração o valor do tempo de estudo e os custos indiretos relacionados ao desenvolvimento de atividades extracurriculares, permitindo uma compreensão mais detalhada do custo real envolvido em uma educação superior pública no Brasil.
 
-## tabela simplificada 
+## Tabela simplificada 
 
 | **Item**                                  | **Valor Calculado** | **Observação**                                                         |
 |-------------------------------------------|---------------------|------------------------------------------------------------------------|
@@ -50,8 +52,6 @@ Esse cálculo leva em consideração o valor do tempo de estudo e os custos indi
 | Custo mensal para 12 alunos no projeto    | R$ 1.554,00         | Custo calculado para 240 horas totais com 12 alunos.                   |
 
 
----
-
 ## Referências
 
 [^1]: *O Globo*. Raio-X do custo por aluno nas universidades federais. Publicado em 2016.
@@ -60,5 +60,5 @@ Esse cálculo leva em consideração o valor do tempo de estudo e os custos indi
 
 [^6]: Banco Central do Brasil. Calculadora de Ajuste de Inflação. Disponível em: [https://www.bcb.gov.br](https://www.bcb.gov.br)
 
----
+
 
