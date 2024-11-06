@@ -49,3 +49,11 @@ Esse cálculo leva em consideração o valor do tempo de estudo e os custos indi
 [^2]: Estudo de Custo de Ensino Superior Público - Universidade de São Paulo (USP).
 
 [^6]: Banco Central do Brasil. Calculadora de Ajuste de Inflação. Disponível em: [https://www.bcb.gov.br](https://www.bcb.gov.br)
+
+---
+## Versão 
+
+| **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**  |
+|-------------------|---------------------------------------------------| ----------- | --------------- |
+| Plano de custos v1 | Subindo documento versão 1                   | Matheus Monteiro | 06 de novembro de 2024 |
+| Plano de custos v1.1| Arrumando versões                    | Matheus Monteiro | 06 de novembro de 2024| 
