@@ -5,6 +5,7 @@
 | **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**       |
 |-------------------|-----------------------------------------------| -----------| ---------------        |
 | Lean Inception    | Subindo documento versão 1                    | João Vitor | 20 de novembro de 2024 |
+| Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
 
 ## Introdução
 
@@ -25,6 +26,16 @@ O **lean inception** é uma metodologia colaborativa usada para alinhar equipes 
 ### Capítulo 5 - Personas
 
 ### Capítulo 6 - Jornada do usuário
+
+O capítulo de Jornada do Usuário tem como objetivo promover possíveis caminhos nos quais o usuário pode realizar para alcançar seu objetivo no produto. São realizados uma sequência de passos com diferentes pontos de contato com o produto, caracterizando a interação do usuário com o produto.
+
+Abaixo temos 3 possíveis jornadas:
+
+![Jornada 1](imagenslean\leanJornada1.png)
+
+![Jornada 2](imagenslean\leanJornada2.png)
+
+![Jornada 3](imagenslean\leanJornada3.png)
 
 ### Capítulo 7 - Brainstorming de funcionalidades
 
