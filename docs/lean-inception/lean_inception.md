@@ -1,11 +1,12 @@
- # Lean Inception
+# Lean Inception
 
-## Versão 
+## Versão
 
-| **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**       |
-|-------------------|-----------------------------------------------| -----------| ---------------        |
-| Lean Inception    | Subindo documento versão 1                    | João Vitor | 20 de novembro de 2024 |
-| Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
+| **Título**     | **Alterações Feitas**           | **Autor**         | **Data de Hoje**       |
+| -------------- | ------------------------------- | ----------------- | ---------------------- |
+| Lean Inception | Subindo documento versão 1      | João Vitor        | 20 de novembro de 2024 |
+| Lean Inception | Documentação Jornada do usuário | Bruno Cruz        | 20 de novembro de 2024 |
+| Lean Inception | Documentação Visão do Produto   | Guilherme Zanella | 22 de novembro de 2024 |
 
 ## Introdução
 
@@ -15,11 +16,17 @@ O **lean inception** é uma metodologia colaborativa usada para alinhar equipes 
 
 ### Capítulo 2 - Visão do Produto
 
+A fase da visão do produto é essencial para alinhar a visão da equipe sobre o que é o produto e definir a essência do valor de negócio colocando o usuário no centro e se comunicando com os donos do produto assim evitando interpretações diferentes para não desperdiçar tempo e recursos.
+
+Esses são nossos resultados:
+![visao do produto1](imagenslean/leanVisaoDoProduto1.png)
+![visao do produto2](imagenslean/leanVisaoDoProduto2.png)
+
 ### Capítulo 3 - É-NÃO É-FAZ-NÃO FAZ
 
- No capítulo do é-não é-faz-não faz, nós buscamos entender melhor como o produto deverá se comportar, suas funcionalidades, o que ele deve e não deve fazer e o que ele representa, além de definir os limtes do projeto e um esboço do escopo.Abaixo está os resultados encontrados
+No capítulo do é-não é-faz-não faz, nós buscamos entender melhor como o produto deverá se comportar, suas funcionalidades, o que ele deve e não deve fazer e o que ele representa, além de definir os limtes do projeto e um esboço do escopo.Abaixo está os resultados encontrados
 
- ![Logotipo](imagenslean/leané_nãoé_faz_nãofaz.png)
+![Logotipo](imagenslean/leané_nãoé_faz_nãofaz.png)
 
 ### Capítulo 4 - Objetivos do produto
 
@@ -44,4 +51,3 @@ Abaixo temos 3 possíveis jornadas:
 ### Capítulo 9 - Sequenciador
 
 ### Capítulo 10 - Canvas MVP
-
