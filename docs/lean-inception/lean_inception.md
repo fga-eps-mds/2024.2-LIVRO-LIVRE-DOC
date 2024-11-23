@@ -6,6 +6,7 @@
 |-------------------|-----------------------------------------------| -----------| ---------------        |
 | Lean Inception    | Subindo documento versão 1                    | João Vitor | 20 de novembro de 2024 |
 | Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
+| Lean Inception    | Documentação Obejtivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
 
 ## Introdução
 
@@ -22,7 +23,10 @@ O **lean inception** é uma metodologia colaborativa usada para alinhar equipes 
  ![Logotipo](imagenslean/leané_nãoé_faz_nãofaz.png)
 
 ### Capítulo 4 - Objetivos do produto
+ No Capitulo 4 temos como finalidade principal definir os objetivos e metas que desejamos alcançar com o produto. Cada objetivo foi analisado e agrupado em uma categoria geral que abranje as metas semelhantes. Abaixo está o resultado encotrados:
 
+ ![Logotipo](imagenslean/lean_objetivos_do_produto.png)
+ 
 ### Capítulo 5 - Personas
 
 ### Capítulo 6 - Jornada do usuário
