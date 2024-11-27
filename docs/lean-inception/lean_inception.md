@@ -54,4 +54,4 @@ No capítulo 10, alcançamos o objetivo principal da Lean Inception: a criação
 
 Esse processo final consolidou todos os aprendizados e alinhamentos realizados ao longo da Lean Inception, resultando em um plano claro e direcionado para a entrega de um MVP eficiente, focado em resolver as necessidades do público-alvo e validar o modelo de negócio com agilidade. Conforme o modelo abaixo:
 
-![CanvasMVP](imagenslean\canvasMVP.png)
+![CanvasMVP](imagenslean\CanvasMVP.png)
