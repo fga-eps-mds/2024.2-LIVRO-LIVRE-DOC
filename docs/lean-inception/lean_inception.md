@@ -7,6 +7,7 @@
 | Lean Inception    | Subindo documento versão 1                    | João Vitor | 20 de novembro de 2024 |
 | Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
 | Lean Inception    | Documentação Obejtivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
+| Lean Inception    | Documentação CanvasMVP                        | Alisson B. | 23 de novembro de 2024 |
 
 ## Introdução
 
@@ -49,3 +50,8 @@ Abaixo temos 3 possíveis jornadas:
 
 ### Capítulo 10 - Canvas MVP
 
+No capítulo 10, alcançamos o objetivo principal da Lean Inception: a criação do Canvas MVP. Nesse momento crucial, estruturamos de forma clara e detalhada os elementos fundamentais para o desenvolvimento do Produto Mínimo Viável (MVP), garantindo alinhamento entre a equipe e clareza sobre os próximos passos. No Canvas MVP, organizamos e refinamos os seguintes aspectos: personas, proposta do MVP, reultado esperado, funcionalidades, jornadas, custo, cronograma e as métricas para validar as hipótestes do negócio.
+
+Esse processo final consolidou todos os aprendizados e alinhamentos realizados ao longo da Lean Inception, resultando em um plano claro e direcionado para a entrega de um MVP eficiente, focado em resolver as necessidades do público-alvo e validar o modelo de negócio com agilidade. Conforme o modelo abaixo:
+
+![CanvasMVP](imagenslean\CanvasMVP.png)
