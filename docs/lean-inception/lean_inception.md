@@ -2,6 +2,7 @@
 
 ## Versão
 
+7_visao_do_produto
 | **Título**     | **Alterações Feitas**           | **Autor**         | **Data de Hoje**       |
 | -------------- | ------------------------------- | ----------------- | ---------------------- |
 | Lean Inception | Subindo documento versão 1      | João Vitor        | 20 de novembro de 2024 |
@@ -29,7 +30,10 @@ No capítulo do é-não é-faz-não faz, nós buscamos entender melhor como o pr
 ![Logotipo](imagenslean/leané_nãoé_faz_nãofaz.png)
 
 ### Capítulo 4 - Objetivos do produto
+ No Capitulo 4 temos como finalidade principal definir os objetivos e metas que desejamos alcançar com o produto. Cada objetivo foi analisado e agrupado em uma categoria geral que abranje as metas semelhantes. Abaixo está o resultado encotrados:
 
+ ![Logotipo](imagenslean/lean_objetivos_do_produto.png)
+ 
 ### Capítulo 5 - Personas
 
 ### Capítulo 6 - Jornada do usuário
