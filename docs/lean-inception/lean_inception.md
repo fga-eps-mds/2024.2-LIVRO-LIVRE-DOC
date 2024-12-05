@@ -17,6 +17,12 @@ O **lean inception** é uma metodologia colaborativa usada para alinhar equipes 
 
 ### Capítulo 2 - Visão do Produto
 
+  A fase da visão do produto é essencial para alinhar a visão da equipe sobre o que é o produto e definir a essência do valor de negócio colocando o usuário no centro e se comunicando com os donos do produto assim evitando interpretações diferentes para não desperdiçar tempo e recursos.
+
+  Esses são nossos resultados:
+  ![visao do produto1](imagenslean/leanVisaoDoProduto1.png)
+  ![visao do produto2](imagenslean/leanVisaoDoProduto2.png)
+
 ### Capítulo 3 - É-NÃO É-FAZ-NÃO FAZ
 
  No capítulo do é-não é-faz-não faz, nós buscamos entender melhor como o produto deverá se comportar, suas funcionalidades, o que ele deve e não deve fazer e o que ele representa, além de definir os limtes do projeto e um esboço do escopo.Abaixo está os resultados encontrados
