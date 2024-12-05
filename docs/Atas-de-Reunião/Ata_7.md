@@ -1,8 +1,8 @@
-# Ata da Reunião 27/11/2024
+# Ata da Reunião 7
 **Data:** 27 de novembro de 2024  
 **Local:** Microsoft Teams  
 
-## Participantes:
+## Participantes
 
 ### EPS:
 - Mateus Cunha Maia  
