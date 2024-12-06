@@ -136,11 +136,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -305,11 +305,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -474,11 +474,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -567,7 +567,7 @@
                 "description": null
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "Matheusafonsouza",
@@ -643,22 +643,42 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
         "comments": 0,
         "created_at": "2024-12-06T00:35:09Z",
-        "updated_at": "2024-12-06T01:01:13Z",
-        "closed_at": null,
+        "updated_at": "2024-12-06T01:52:17Z",
+        "closed_at": "2024-12-06T01:52:17Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
         "body": "Precisamos configurar o SonarCloud no reposit\u00f3rio para coletar m\u00e9tricas de qualidade de c\u00f3digo, como cobertura de testes, complexidade, duplica\u00e7\u00e3o e vulnerabilidades de seguran\u00e7a. Essa configura\u00e7\u00e3o ajudar\u00e1 a garantir a manuten\u00e7\u00e3o de altos padr\u00f5es de qualidade no c\u00f3digo do projeto e permitir\u00e1 o monitoramento cont\u00ednuo para identificar e corrigir poss\u00edveis problemas.\n\n\n## Aceita\u00e7\u00e3o\n\n1. Integra\u00e7\u00e3o do SonarCloud:\n\n* O SonarCloud deve ser configurado no reposit\u00f3rio com o token de autentica\u00e7\u00e3o apropriado.\n* A integra\u00e7\u00e3o deve ser realizada com o pipeline CI/CD existente (ex.: GitHub Actions, Jenkins, GitLab CI/CD).\nM\u00e9tricas Monitoradas:\n\n2. Cobertura de testes deve ser calculada e exibida no painel do SonarCloud.\n* C\u00f3digo duplicado, complexidade ciclom\u00e1tica e hotspots de seguran\u00e7a devem ser identificados.\n* Deve haver um relat\u00f3rio detalhado para cada an\u00e1lise de build.",
-        "closed_by": null,
+        "closed_by": {
+            "login": "Matheusafonsouza",
+            "id": 42722634,
+            "node_id": "MDQ6VXNlcjQyNzIyNjM0",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42722634?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Matheusafonsouza",
+            "html_url": "https://github.com/Matheusafonsouza",
+            "followers_url": "https://api.github.com/users/Matheusafonsouza/followers",
+            "following_url": "https://api.github.com/users/Matheusafonsouza/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Matheusafonsouza/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Matheusafonsouza/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Matheusafonsouza/subscriptions",
+            "organizations_url": "https://api.github.com/users/Matheusafonsouza/orgs",
+            "repos_url": "https://api.github.com/users/Matheusafonsouza/repos",
+            "events_url": "https://api.github.com/users/Matheusafonsouza/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Matheusafonsouza/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/74/reactions",
             "total_count": 0,
@@ -673,7 +693,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/74/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/73",
@@ -812,11 +832,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -1822,11 +1842,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -4170,11 +4190,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -8676,11 +8696,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
@@ -10083,11 +10103,11 @@
                 "user_view_type": "public",
                 "site_admin": false
             },
-            "open_issues": 5,
-            "closed_issues": 4,
+            "open_issues": 4,
+            "closed_issues": 5,
             "state": "open",
             "created_at": "2024-12-05T00:41:20Z",
-            "updated_at": "2024-12-06T01:22:12Z",
+            "updated_at": "2024-12-06T01:52:17Z",
             "due_on": "2024-12-08T08:00:00Z",
             "closed_at": null
         },
