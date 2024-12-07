@@ -10,6 +10,7 @@
 | Lean Inception    | Documentação CanvasMVP                        | Alisson B. | 23 de novembro de 2024 |
 | Lean Inception    | Documentação Sequenciador                       | Mateus Maia | 06 de dezembro de 2024 |
 | Lean Inception    | Documentação Persona                       | Mateus Maia | 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Brainstorming                       | Mateus Maia | 06 de dezembro de 2024 |
 
 ## Introdução
 
@@ -73,6 +74,12 @@ Abaixo temos 3 possíveis jornadas:
 ![Jornada 3](imagenslean\leanJornada3.png)
 
 ### Capítulo 7 - Brainstorming de funcionalidades
+
+O brainstorming de funcionalidades é uma atividade colaborativa onde as equipes propõem ideias e conceitos para as funcionalidades do produto. Seu objetivo é gerar um conjunto inicial de sugestões que serão posteriormente analisadas e priorizadas.
+
+![Brainstorming](imagenslean\brainstorming.jpeg)
+
+
 
 ### Capítulo 8 - Revisão técnica, de negócio e de UX
 
