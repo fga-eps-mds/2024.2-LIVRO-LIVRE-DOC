@@ -11,6 +11,7 @@
 | Lean Inception    | Documentação Sequenciador                       | Mateus Maia | 06 de dezembro de 2024 |
 | Lean Inception    | Documentação Persona                       | Mateus Maia | 06 de dezembro de 2024 |
 | Lean Inception    | Documentação Brainstorming                       | Mateus Maia | 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Revião técnica e UX                       | Mateus Maia | 06 de dezembro de 2024 |
 
 ## Introdução
 
@@ -82,6 +83,23 @@ O brainstorming de funcionalidades é uma atividade colaborativa onde as equipes
 
 
 ### Capítulo 8 - Revisão técnica, de negócio e de UX
+
+Para definir as prioridades das funcionalidades, utilizamos diversas ferramentas, entre elas o Gráfico de Semáforo. Essa representação visual emprega cores para indicar o nível de confiança da equipe de desenvolvimento na compreensão e capacidade de implementação de cada funcionalidade. O gráfico é composto por três níveis de confiança:
+
+- **Alto (Verde)**: A funcionalidade é bem compreendida e a equipe sabe como implementá-la.
+- **Médio (Amarelo)**: Há alguma incerteza, seja na compreensão ou na capacidade de implementação. Pode ser que a equipe entenda o conceito, mas não saiba como executar, ou vice-versa.
+- **Baixo (Vermelho)**: A funcionalidade não é bem compreendida pela equipe e não sabem como implementá-la.
+
+Além disso, utilizamos outra ferramenta que combina três símbolos para análise de prioridades:
+
+- **E (Esforço)**: Representa o nível de esforço necessário para a equipe implementar a funcionalidade.
+- **$ (Valor)**: Indica o valor que a funcionalidade agrega ao cliente, ao Product Owner (PO) ou aos stakeholders (neste caso, o Enactus). Embora todas as funcionalidades tenham sua relevância, é fundamental priorizar com base no impacto gerado.
+- **<3 (UX - Experiência do Usuário)**: Refere-se à experiência do usuário e mede o quanto a funcionalidade é atrativa ou benéfica para ele.
+
+Ao combinar o Gráfico de Semáforo com esses símbolos, a equipe obtém uma visão mais clara e abrangente sobre as funcionalidades do projeto. Essa abordagem auxilia na tomada de decisões estratégicas, equilibrando a viabilidade técnica, o valor para o negócio e a experiência do usuário.
+
+![Revisão técnica e UX](imagenslean\revisao_tecnica.png)
+
 
 ### Capítulo 9 - Sequenciador
 
