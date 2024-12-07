@@ -71,6 +71,7 @@ As funcionalidades serão distribuídas em ondas, que definirão a ordem de exec
 
 **Regra 6**: Se um cartão depende de outro, o cartão dependido deve estar em uma onda anterior.
 
+![Sequenciador](imagenslean\sequenciador.png)
 
 ### Capítulo 10 - Canvas MVP
 
