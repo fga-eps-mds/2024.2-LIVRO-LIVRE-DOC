@@ -16,11 +16,11 @@ O plano de comunicação é fundamental para garantir uma interação eficiente 
 
 |    Ferramenta    |                        Descrição                      |
 |:----------------:|:-----------------------------------------------------:|
-|     Discord      |Ferramenta principal para comunicação instantânea entre o time, organização de discussões e realização de reuniões internas.                                                                                                                            |
-|     WhatsApp     |Alternativa rápida para mensagens urgentes ou comunicação informal entre os membros do time.                     |
-|      Teams       |Canal exclusivo para reuniões formais e apresentações com o cliente.                                             |
-|     GitHub       |Repositório central para armazenamento e controle de versão de documentos e códigos do projeto.                  |
-|     ZenHub       |Ferramenta integrada ao GitHub para gestão de tarefas, documentação de requisitos, planejamento de roadmap e uso de quadros Kanban.                                                                                                                   |
+|     Discord      |Ferramenta principal para comunicação instantânea entre o time, organização de discussões e realização de reuniões internas.          |
+|     WhatsApp     |Alternativa rápida para mensagens urgentes ou comunicação informal entre os membros do time.                                          |
+|      Teams       |Canal exclusivo para reuniões formais e apresentações com o cliente.                                                                  |
+|     GitHub       |Repositório central para armazenamento e controle de versão de documentos e códigos do projeto.                                       |
+|     ZenHub       |Ferramenta integrada ao GitHub para gestão de tarefas, documentação de requisitos, planejamento de roadmap e uso de quadros Kanban.   |
 
 ## 3. Reuniões
 
