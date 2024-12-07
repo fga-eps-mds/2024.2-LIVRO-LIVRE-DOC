@@ -84,6 +84,7 @@ O brainstorming de funcionalidades é uma atividade colaborativa onde as equipes
 
 ### Capítulo 8 - Revisão técnica, de negócio e de UX
 
+
 Para definir as prioridades das funcionalidades, utilizamos diversas ferramentas, entre elas o Gráfico de Semáforo. Essa representação visual emprega cores para indicar o nível de confiança da equipe de desenvolvimento na compreensão e capacidade de implementação de cada funcionalidade. O gráfico é composto por três níveis de confiança:
 
 - **Alto (Verde)**: A funcionalidade é bem compreendida e a equipe sabe como implementá-la.
@@ -96,7 +97,7 @@ Além disso, utilizamos outra ferramenta que combina três símbolos para análi
 - **$ (Valor)**: Indica o valor que a funcionalidade agrega ao cliente, ao Product Owner (PO) ou aos stakeholders (neste caso, o Enactus). Embora todas as funcionalidades tenham sua relevância, é fundamental priorizar com base no impacto gerado.
 - **<3 (UX - Experiência do Usuário)**: Refere-se à experiência do usuário e mede o quanto a funcionalidade é atrativa ou benéfica para ele.
 
-Ao combinar o Gráfico de Semáforo com esses símbolos, a equipe obtém uma visão mais clara e abrangente sobre as funcionalidades do projeto. Essa abordagem auxilia na tomada de decisões estratégicas, equilibrando a viabilidade técnica, o valor para o negócio e a experiência do usuário.
+Ao combinar o Gráfico de Semáforo com esses símbolos, a equipe obtém uma visão mais clara e abrangente sobre as funcionalidades do projeto. Essa abordagem auxilia na tomada de decisões estratégicas, equilibrando a viabilidade técnica, o valor para o negócio e a experiência do usuário. Na imagem abaixo temos o resultado desa metodologia.
 
 ![Revisão técnica e UX](imagenslean\revisao_tecnica.png)
 
