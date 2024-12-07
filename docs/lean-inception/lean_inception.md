@@ -8,6 +8,7 @@
 | Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
 | Lean Inception    | Documentação Obejtivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
 | Lean Inception    | Documentação CanvasMVP                        | Alisson B. | 23 de novembro de 2024 |
+| Lean Inception    | Documentação Sequenciador                       | Mateus Maia | 06 de dezembro de 2024 |
 
 ## Introdução
 
@@ -53,6 +54,24 @@ Abaixo temos 3 possíveis jornadas:
 ### Capítulo 8 - Revisão técnica, de negócio e de UX
 
 ### Capítulo 9 - Sequenciador
+
+O sequenciador será fundamental para determinar quais funcionalidades devem ser priorizadas no desenvolvimento do produto. A partir das funções previamente definidas, elas serão organizadas em uma sequência lógica. Essa organização permitirá identificar quais funcionalidades devem ser implementadas no menor tempo possível, formando o Produto Mínimo Viável (PMV), e quais podem ser deixadas para fases futuras. Essa lista servirá como guia para orientar o desenvolvimento do projeto.
+
+As funcionalidades serão distribuídas em ondas, que definirão a ordem de execução das tarefas. A criação dessas ondas segue regras específicas que asseguram a geração de valor suficiente e limitam a complexidade de cada etapa:
+
+**Regra 1**: Uma onda pode conter no máximo três cartões.
+
+**Regra 2**: Uma onda não pode conter mais de um cartão vermelho.
+
+**Regra 3**: Uma onda não pode conter três cartões apenas amarelos ou vermelhos.
+
+**Regra 4**: A soma de esforço dos cartões não pode ultrapassar cinco Es.
+
+**Regra 5**: A soma de valor dos cartões não pode ser menor que quatro $s e quatro corações.
+
+**Regra 6**: Se um cartão depende de outro, o cartão dependido deve estar em uma onda anterior.
+
+![Sequenciador](imagenslean\sequenciador.png)
 
 ### Capítulo 10 - Canvas MVP
 
