@@ -9,6 +9,7 @@
 | Lean Inception    | Documentação Obejtivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
 | Lean Inception    | Documentação CanvasMVP                        | Alisson B. | 23 de novembro de 2024 |
 | Lean Inception    | Documentação Sequenciador                       | Mateus Maia | 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Persona                       | Mateus Maia | 06 de dezembro de 2024 |
 
 ## Introdução
 
@@ -36,6 +37,28 @@ O **lean inception** é uma metodologia colaborativa usada para alinhar equipes 
  ![Logotipo](imagenslean/lean_objetivos_do_produto.png)
  
 ### Capítulo 5 - Personas
+
+Nesta fase, a equipe desenvolve descrições detalhadas das personas, que representam os diferentes tipos de usuários do produto. Personas são representações fictícias baseadas em perfis ou grupos demográficos reais que podem interagir com o produto. Cada persona é composta por um nome, uma foto e uma descrição contendo informações como idade, gênero, necessidades, desafios, objetivos e comportamentos típicos. O propósito é humanizar e concretizar as diversas audiências do produto, permitindo à equipe compreender melhor suas necessidades e expectativas.
+
+#### Persona 1
+
+ ![Persona1](imagenslean/persona1.png)
+
+#### Persona 2
+
+ ![Persona2](imagenslean/persona2.png)
+
+#### Persona 3
+
+ ![Persona3](imagenslean/persona3.png)
+
+#### Persona 4
+
+ ![Persona4](imagenslean/persona4.png)
+
+#### Persona 5
+
+ ![Persona5](imagenslean/persona5.png)
 
 ### Capítulo 6 - Jornada do usuário
 
