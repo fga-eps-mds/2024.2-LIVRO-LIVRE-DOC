@@ -48,3 +48,8 @@ O backlog é uma ferramenta **dinâmica** e **iterativa**, que deve ser constant
 | **R N**           | Gerenciamento de avaliações| **US13** | Eu, como Camilla Marques | Desejo avaliar resenhas sinalizadas pelo sistema           | Para garantir que elas sigam as diretrizes e possam ser publicadas |
 | **R N**           | Requerer Empréstimos      | **US14** | Eu, como Ana Clara     | Desejo solicitar o empréstimo de um livro em posse de outro usuário | Para ter acesso ao material que desejo ler            |
 
+
+### Link da Tabela
+
+
+[Planilha do Google Sheets](https://docs.google.com/spreadsheets/d/1DEfS0IPja5we3iHe5L3W-1Nt8Jx-D-EsGtwl9LwYusM/edit?gid=491139572#gid=491139572)
