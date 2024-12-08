@@ -6,18 +6,24 @@
 |-------------------|-----------------------------------------------| -----------| ---------------        |
 | Lean Inception    | Subindo documento versão 1                    | João Vitor | 20 de novembro de 2024 |
 | Lean Inception    | Documentação Jornada do usuário               | Bruno Cruz | 20 de novembro de 2024 |
-| Lean Inception    | Documentação Obejtivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
+| Lean Inception    | Documentação Objetivos do Produto             | Pablo Cunha| 21 de novembro de 2024 |
 | Lean Inception    | Documentação CanvasMVP                        | Alisson B. | 23 de novembro de 2024 |
-| Lean Inception    | Documentação Sequenciador                       | Mateus Maia | 06 de dezembro de 2024 |
-| Lean Inception    | Documentação Persona                       | Mateus Maia | 06 de dezembro de 2024 |
-| Lean Inception    | Documentação Brainstorming                       | Mateus Maia | 06 de dezembro de 2024 |
-| Lean Inception    | Documentação Revião técnica e UX                       | Mateus Maia | 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Sequenciador                     | Mateus Maia| 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Persona                          | Mateus Maia| 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Brainstorming                    | Mateus Maia| 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Revião técnica e UX              | Mateus Maia| 06 de dezembro de 2024 |
+| Lean Inception    | Documentação Kick off                         | Pablo Cunha| 07 de dezembro de 2024 |
+
 
 ## Introdução
 
 O **lean inception** é uma metodologia colaborativa usada para alinhar equipes e stakeholders na definição de um Mínimo Produto Viável (MVP) de um produto ou serviço. Ela combina práticas do Lean Startup e do Design Thinking para garantir que o produto inicial entregue ao mercado seja viável, útil e alinhado às necessidades dos usuários e do negócio.
 
 ### Capítulo 1 - Kick-off
+  O ponto de partida da metodologia Lean inception é o Kick-off, onde são apresentados as expectativas para o projeto, o tema do projeto e sobre como funcionara o método Lean inception.
+
+  Esses foram os resultados:
+  ![Kickoff](imagenslean/lean_kickoff.jpeg)
 
 ### Capítulo 2 - Visão do Produto
 
