@@ -111,8 +111,8 @@ A Visão de Dados mostra como está arquiteturada a camada de persistência do p
 
 ## 8. Referências
 
-1. **DONG, Tao.** Flutter. [S. l.], 2019. Disponível em: [https://medium.com/flutter](https://medium.com/flutter). Acesso em: 23 fev. 2021.
+1. **DONG, Tao.** Flutter. [S. l.], 2019. Disponível em: [https://medium.com/flutter](https://medium.com/flutter). Acesso em: 09 dez. 2024.
 
-2. **FLASK (FRAMEWORK WEB).** In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: [https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171](https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171). Acesso em: 23 fev. 2021.
+2. **FLASK (FRAMEWORK WEB).** In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: [https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171](https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171). Acesso em: 09 dez. 2024.
 
-3. **NODE.JS.** In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: [https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828](https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828). Acesso em: 23 fev. 2021.
+3. **NODE.JS.** In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: [https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828](https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828). Acesso em: 09 dez. 2024.
