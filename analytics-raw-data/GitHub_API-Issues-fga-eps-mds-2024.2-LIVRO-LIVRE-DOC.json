@@ -1,5 +1,316 @@
 [
     {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/91",
+        "id": 2725541384,
+        "node_id": "PR_kwDONFyTcs6EdPDN",
+        "number": 91,
+        "title": "docs: create document plano de risco",
+        "user": {
+            "login": "Joaovitor045",
+            "id": 117115853,
+            "node_id": "U_kgDOBvsLzQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/117115853?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Joaovitor045",
+            "html_url": "https://github.com/Joaovitor045",
+            "followers_url": "https://api.github.com/users/Joaovitor045/followers",
+            "following_url": "https://api.github.com/users/Joaovitor045/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Joaovitor045/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Joaovitor045/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Joaovitor045/subscriptions",
+            "organizations_url": "https://api.github.com/users/Joaovitor045/orgs",
+            "repos_url": "https://api.github.com/users/Joaovitor045/repos",
+            "events_url": "https://api.github.com/users/Joaovitor045/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Joaovitor045/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7677842585,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKUmQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/DOCS",
+                "name": "DOCS",
+                "color": "0075ca",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": {
+            "login": "Joaovitor045",
+            "id": 117115853,
+            "node_id": "U_kgDOBvsLzQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/117115853?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Joaovitor045",
+            "html_url": "https://github.com/Joaovitor045",
+            "followers_url": "https://api.github.com/users/Joaovitor045/followers",
+            "following_url": "https://api.github.com/users/Joaovitor045/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Joaovitor045/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Joaovitor045/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Joaovitor045/subscriptions",
+            "organizations_url": "https://api.github.com/users/Joaovitor045/orgs",
+            "repos_url": "https://api.github.com/users/Joaovitor045/repos",
+            "events_url": "https://api.github.com/users/Joaovitor045/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Joaovitor045/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "Joaovitor045",
+                "id": 117115853,
+                "node_id": "U_kgDOBvsLzQ",
+                "avatar_url": "https://avatars.githubusercontent.com/u/117115853?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Joaovitor045",
+                "html_url": "https://github.com/Joaovitor045",
+                "followers_url": "https://api.github.com/users/Joaovitor045/followers",
+                "following_url": "https://api.github.com/users/Joaovitor045/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Joaovitor045/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Joaovitor045/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Joaovitor045/subscriptions",
+                "organizations_url": "https://api.github.com/users/Joaovitor045/orgs",
+                "repos_url": "https://api.github.com/users/Joaovitor045/repos",
+                "events_url": "https://api.github.com/users/Joaovitor045/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Joaovitor045/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2024-12-08T21:39:01Z",
+        "updated_at": "2024-12-09T03:19:07Z",
+        "closed_at": "2024-12-09T03:19:00Z",
+        "author_association": "CONTRIBUTOR",
+        "active_lock_reason": null,
+        "draft": false,
+        "pull_request": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pulls/91",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/91",
+            "diff_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/91.diff",
+            "patch_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/91.patch",
+            "merged_at": "2024-12-09T03:19:00Z"
+        },
+        "body": "# Solve Documenta\u00e7\u00e3o (texto)\r\n\r\n\r\n## Issues\r\n\r\n- Resolve #65 \r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nvers\u00e3o 1 do plano de riscos\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [ ] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [ ] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
+        "closed_by": {
+            "login": "matheusyanmonteiro",
+            "id": 49919267,
+            "node_id": "MDQ6VXNlcjQ5OTE5MjY3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49919267?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/matheusyanmonteiro",
+            "html_url": "https://github.com/matheusyanmonteiro",
+            "followers_url": "https://api.github.com/users/matheusyanmonteiro/followers",
+            "following_url": "https://api.github.com/users/matheusyanmonteiro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/matheusyanmonteiro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/matheusyanmonteiro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/matheusyanmonteiro/subscriptions",
+            "organizations_url": "https://api.github.com/users/matheusyanmonteiro/orgs",
+            "repos_url": "https://api.github.com/users/matheusyanmonteiro/repos",
+            "events_url": "https://api.github.com/users/matheusyanmonteiro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/matheusyanmonteiro/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/91/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
+        "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90",
+        "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC",
+        "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90/labels{/name}",
+        "comments_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90/comments",
+        "events_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90/events",
+        "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/90",
+        "id": 2724927724,
+        "node_id": "PR_kwDONFyTcs6EbLaa",
+        "number": 90,
+        "title": "fix: underscore on lean inception name",
+        "user": {
+            "login": "Matheusafonsouza",
+            "id": 42722634,
+            "node_id": "MDQ6VXNlcjQyNzIyNjM0",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42722634?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Matheusafonsouza",
+            "html_url": "https://github.com/Matheusafonsouza",
+            "followers_url": "https://api.github.com/users/Matheusafonsouza/followers",
+            "following_url": "https://api.github.com/users/Matheusafonsouza/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Matheusafonsouza/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Matheusafonsouza/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Matheusafonsouza/subscriptions",
+            "organizations_url": "https://api.github.com/users/Matheusafonsouza/orgs",
+            "repos_url": "https://api.github.com/users/Matheusafonsouza/repos",
+            "events_url": "https://api.github.com/users/Matheusafonsouza/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Matheusafonsouza/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "labels": [
+            {
+                "id": 7656501703,
+                "node_id": "LA_kwDONFyTcs8AAAAByFzxxw",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/bug",
+                "name": "bug",
+                "color": "d73a4a",
+                "default": true,
+                "description": "Something isn't working"
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": {
+            "login": "Matheusafonsouza",
+            "id": 42722634,
+            "node_id": "MDQ6VXNlcjQyNzIyNjM0",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42722634?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Matheusafonsouza",
+            "html_url": "https://github.com/Matheusafonsouza",
+            "followers_url": "https://api.github.com/users/Matheusafonsouza/followers",
+            "following_url": "https://api.github.com/users/Matheusafonsouza/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Matheusafonsouza/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Matheusafonsouza/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Matheusafonsouza/subscriptions",
+            "organizations_url": "https://api.github.com/users/Matheusafonsouza/orgs",
+            "repos_url": "https://api.github.com/users/Matheusafonsouza/repos",
+            "events_url": "https://api.github.com/users/Matheusafonsouza/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Matheusafonsouza/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "assignees": [
+            {
+                "login": "Matheusafonsouza",
+                "id": 42722634,
+                "node_id": "MDQ6VXNlcjQyNzIyNjM0",
+                "avatar_url": "https://avatars.githubusercontent.com/u/42722634?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Matheusafonsouza",
+                "html_url": "https://github.com/Matheusafonsouza",
+                "followers_url": "https://api.github.com/users/Matheusafonsouza/followers",
+                "following_url": "https://api.github.com/users/Matheusafonsouza/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Matheusafonsouza/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Matheusafonsouza/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Matheusafonsouza/subscriptions",
+                "organizations_url": "https://api.github.com/users/Matheusafonsouza/orgs",
+                "repos_url": "https://api.github.com/users/Matheusafonsouza/repos",
+                "events_url": "https://api.github.com/users/Matheusafonsouza/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Matheusafonsouza/received_events",
+                "type": "User",
+                "user_view_type": "public",
+                "site_admin": false
+            }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2024-12-08T03:24:43Z",
+        "updated_at": "2024-12-09T01:13:58Z",
+        "closed_at": "2024-12-08T03:24:50Z",
+        "author_association": "CONTRIBUTOR",
+        "active_lock_reason": null,
+        "draft": false,
+        "pull_request": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pulls/90",
+            "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/90",
+            "diff_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/90.diff",
+            "patch_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/90.patch",
+            "merged_at": "2024-12-08T03:24:50Z"
+        },
+        "body": "# Solve Documenta\u00e7\u00e3o (texto)\r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nCorrige erro do underscore no arquivo de lean inception\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [x] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [ ] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [ ] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [ ] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [ ] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
+        "closed_by": {
+            "login": "Matheusafonsouza",
+            "id": 42722634,
+            "node_id": "MDQ6VXNlcjQyNzIyNjM0",
+            "avatar_url": "https://avatars.githubusercontent.com/u/42722634?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Matheusafonsouza",
+            "html_url": "https://github.com/Matheusafonsouza",
+            "followers_url": "https://api.github.com/users/Matheusafonsouza/followers",
+            "following_url": "https://api.github.com/users/Matheusafonsouza/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Matheusafonsouza/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Matheusafonsouza/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Matheusafonsouza/subscriptions",
+            "organizations_url": "https://api.github.com/users/Matheusafonsouza/orgs",
+            "repos_url": "https://api.github.com/users/Matheusafonsouza/repos",
+            "events_url": "https://api.github.com/users/Matheusafonsouza/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Matheusafonsouza/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "reactions": {
+            "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90/reactions",
+            "total_count": 0,
+            "+1": 0,
+            "-1": 0,
+            "laugh": 0,
+            "hooray": 0,
+            "confused": 0,
+            "heart": 0,
+            "rocket": 0,
+            "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/90/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+    },
+    {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/89",
         "repository_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC",
         "labels_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/89/labels{/name}",
@@ -40,9 +351,24 @@
                 "color": "0075ca",
                 "default": false,
                 "description": ""
+<<<<<<< HEAD
             }
         ],
         "state": "open",
+=======
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "state": "closed",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "locked": false,
         "assignee": {
             "login": "mateusmaiamaia",
@@ -91,8 +417,13 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-08T00:59:52Z",
+<<<<<<< HEAD
         "updated_at": "2024-12-08T00:59:52Z",
         "closed_at": null,
+=======
+        "updated_at": "2024-12-09T03:40:09Z",
+        "closed_at": "2024-12-09T03:32:06Z",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
         "draft": false,
@@ -101,10 +432,37 @@
             "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/89",
             "diff_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/89.diff",
             "patch_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/89.patch",
+<<<<<<< HEAD
             "merged_at": null
         },
         "body": "# Solve Documenta\u00e7\u00e3o \r\n\r\n\r\n## Issues\r\n\r\n- Resolve (#84 )\r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nCria\u00e7\u00e3o dos documentos pertencentes ao guia de contribui\u00e7\u00e3o: pol\u00edtica de commits, pol\u00edtica de branchs e c\u00f3digo de conduta\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
         "closed_by": null,
+=======
+            "merged_at": "2024-12-09T03:32:06Z"
+        },
+        "body": "# Solve Documenta\u00e7\u00e3o \r\n\r\n\r\n## Issues\r\n\r\n- Resolve (#84 )\r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nCria\u00e7\u00e3o dos documentos pertencentes ao guia de contribui\u00e7\u00e3o: pol\u00edtica de commits, pol\u00edtica de branchs e c\u00f3digo de conduta\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
+        "closed_by": {
+            "login": "matheusyanmonteiro",
+            "id": 49919267,
+            "node_id": "MDQ6VXNlcjQ5OTE5MjY3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49919267?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/matheusyanmonteiro",
+            "html_url": "https://github.com/matheusyanmonteiro",
+            "followers_url": "https://api.github.com/users/matheusyanmonteiro/followers",
+            "following_url": "https://api.github.com/users/matheusyanmonteiro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/matheusyanmonteiro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/matheusyanmonteiro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/matheusyanmonteiro/subscriptions",
+            "organizations_url": "https://api.github.com/users/matheusyanmonteiro/orgs",
+            "repos_url": "https://api.github.com/users/matheusyanmonteiro/repos",
+            "events_url": "https://api.github.com/users/matheusyanmonteiro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/matheusyanmonteiro/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/89/reactions",
             "total_count": 0,
@@ -164,6 +522,18 @@
                 "description": ""
             },
             {
+<<<<<<< HEAD
+=======
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
                 "id": 7677849653,
                 "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
                 "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
@@ -173,7 +543,11 @@
                 "description": ""
             }
         ],
+<<<<<<< HEAD
         "state": "open",
+=======
+        "state": "closed",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "locked": false,
         "assignee": {
             "login": "Brunocrzz",
@@ -222,8 +596,13 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T22:44:12Z",
+<<<<<<< HEAD
         "updated_at": "2024-12-07T22:44:13Z",
         "closed_at": null,
+=======
+        "updated_at": "2024-12-09T03:40:13Z",
+        "closed_at": "2024-12-09T03:38:30Z",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
         "draft": false,
@@ -232,10 +611,37 @@
             "html_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/88",
             "diff_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/88.diff",
             "patch_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/88.patch",
+<<<<<<< HEAD
             "merged_at": null
         },
         "body": "# Solve Documenta\u00e7\u00e3o Metodologias\r\n\r\n\r\n## Issues\r\n\r\n- Resolve #22 \r\n\r\n## Descri\u00e7\u00e3o\r\nDocumenta\u00e7\u00e3o das metodologias usadas do projeto (Lean, Xp, Scrum, Kanban, PMBOK)\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [x] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [ ] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
         "closed_by": null,
+=======
+            "merged_at": "2024-12-09T03:38:30Z"
+        },
+        "body": "# Solve Documenta\u00e7\u00e3o Metodologias\r\n\r\n\r\n## Issues\r\n\r\n- Resolve #22 \r\n\r\n## Descri\u00e7\u00e3o\r\nDocumenta\u00e7\u00e3o das metodologias usadas do projeto (Lean, Xp, Scrum, Kanban, PMBOK)\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [x] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [ ] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
+        "closed_by": {
+            "login": "matheusyanmonteiro",
+            "id": 49919267,
+            "node_id": "MDQ6VXNlcjQ5OTE5MjY3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49919267?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/matheusyanmonteiro",
+            "html_url": "https://github.com/matheusyanmonteiro",
+            "followers_url": "https://api.github.com/users/matheusyanmonteiro/followers",
+            "following_url": "https://api.github.com/users/matheusyanmonteiro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/matheusyanmonteiro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/matheusyanmonteiro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/matheusyanmonteiro/subscriptions",
+            "organizations_url": "https://api.github.com/users/matheusyanmonteiro/orgs",
+            "repos_url": "https://api.github.com/users/matheusyanmonteiro/repos",
+            "events_url": "https://api.github.com/users/matheusyanmonteiro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/matheusyanmonteiro/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/88/reactions",
             "total_count": 0,
@@ -293,6 +699,18 @@
                 "color": "0075ca",
                 "default": false,
                 "description": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
             }
         ],
         "state": "open",
@@ -344,7 +762,11 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T22:21:14Z",
+<<<<<<< HEAD
         "updated_at": "2024-12-07T22:21:23Z",
+=======
+        "updated_at": "2024-12-09T03:44:23Z",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -475,7 +897,11 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T22:19:40Z",
+<<<<<<< HEAD
         "updated_at": "2024-12-07T22:39:16Z",
+=======
+        "updated_at": "2024-12-08T03:31:04Z",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -546,6 +972,18 @@
                 "color": "0075ca",
                 "default": false,
                 "description": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
             }
         ],
         "state": "open",
@@ -597,7 +1035,11 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T22:12:20Z",
+<<<<<<< HEAD
         "updated_at": "2024-12-07T22:27:29Z",
+=======
+        "updated_at": "2024-12-09T01:11:16Z",
+>>>>>>> 6f40c6b9a1371ca9a2aa39cde92785461dddc493
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -781,7 +1223,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T21:18:39Z",
-        "updated_at": "2024-12-07T21:18:39Z",
+        "updated_at": "2024-12-08T21:41:57Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -793,7 +1235,7 @@
             "patch_url": "https://github.com/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/pull/83.patch",
             "merged_at": null
         },
-        "body": "# Solve Documenta\u00e7\u00e3o \r\n## Issues\r\n\r\n- Resolve (#18) \r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nCria\u00e7\u00e3o do documento EAP\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
+        "body": "# Solve Documenta\u00e7\u00e3o \r\n## Issues\r\n\r\n- Resolve (#18) \r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nCria\u00e7\u00e3o do documento EAP\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [ ] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [ ] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [x] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/83/reactions",
@@ -850,6 +1292,15 @@
                 "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/DOCS",
                 "name": "DOCS",
                 "color": "0075ca",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
                 "default": false,
                 "description": ""
             },
@@ -912,7 +1363,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T02:40:28Z",
-        "updated_at": "2024-12-07T02:41:26Z",
+        "updated_at": "2024-12-09T01:13:38Z",
         "closed_at": "2024-12-07T02:41:23Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -1005,6 +1456,15 @@
                 "description": ""
             },
             {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
                 "id": 7838574222,
                 "node_id": "LA_kwDONFyTcs8AAAAB0zcmjg",
                 "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/Lean%20Inception",
@@ -1063,7 +1523,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T02:12:00Z",
-        "updated_at": "2024-12-07T02:13:18Z",
+        "updated_at": "2024-12-09T01:13:33Z",
         "closed_at": "2024-12-07T02:13:14Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -1156,6 +1616,15 @@
                 "description": ""
             },
             {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
                 "id": 7838574222,
                 "node_id": "LA_kwDONFyTcs8AAAAB0zcmjg",
                 "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/Lean%20Inception",
@@ -1214,7 +1683,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T01:53:22Z",
-        "updated_at": "2024-12-07T01:56:39Z",
+        "updated_at": "2024-12-09T01:12:43Z",
         "closed_at": "2024-12-07T01:56:32Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -1307,6 +1776,15 @@
                 "description": ""
             },
             {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
                 "id": 7838574222,
                 "node_id": "LA_kwDONFyTcs8AAAAB0zcmjg",
                 "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/Lean%20Inception",
@@ -1365,7 +1843,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-07T01:33:52Z",
-        "updated_at": "2024-12-07T01:36:50Z",
+        "updated_at": "2024-12-09T01:14:21Z",
         "closed_at": "2024-12-07T01:36:47Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -3059,8 +3537,27 @@
             "user_view_type": "public",
             "site_admin": false
         },
-        "labels": [],
-        "state": "open",
+        "labels": [
+            {
+                "id": 7677842585,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKUmQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/DOCS",
+                "name": "DOCS",
+                "color": "0075ca",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
+            }
+        ],
+        "state": "closed",
         "locked": false,
         "assignee": {
             "login": "Joaovitor045",
@@ -3109,8 +3606,8 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-03T13:44:58Z",
-        "updated_at": "2024-12-07T01:19:02Z",
-        "closed_at": null,
+        "updated_at": "2024-12-09T03:19:01Z",
+        "closed_at": "2024-12-09T03:19:01Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
         "draft": false,
@@ -3122,7 +3619,27 @@
             "merged_at": null
         },
         "body": "# Solve Documenta\u00e7\u00e3o (texto)\r\n\r\n\r\n## Issues\r\n\r\n- Resolve (#24)\r\n\r\n## Descri\u00e7\u00e3o\r\n\r\nDescri\u00e7\u00e3o\r\n\r\n## Tipos de mudan\u00e7a\r\n\r\n- [ ] Bugfix\r\n- [ ] Melhoria de funcionalidade\r\n- [ ] Nova funcionalidade\r\n- [x] Documenta\u00e7\u00e3o\r\n\r\n## Checklist\r\n\r\n- [x] Lint e testes passaram localmente com minhas mudan\u00e7as\r\n- [] Eu adicionei testes que provam que minha corre\u00e7\u00e3o \u00e9 eficaz ou que minha feature funciona\r\n- [] Adicionei informa\u00e7\u00f5es necess\u00e1rias na documenta\u00e7\u00e3o (se precisar)\r\n\r\n## Observa\u00e7\u00f5es adicionais\r\n\r\nNenhuma constata\u00e7\u00e3o\r\n",
-        "closed_by": null,
+        "closed_by": {
+            "login": "matheusyanmonteiro",
+            "id": 49919267,
+            "node_id": "MDQ6VXNlcjQ5OTE5MjY3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49919267?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/matheusyanmonteiro",
+            "html_url": "https://github.com/matheusyanmonteiro",
+            "followers_url": "https://api.github.com/users/matheusyanmonteiro/followers",
+            "following_url": "https://api.github.com/users/matheusyanmonteiro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/matheusyanmonteiro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/matheusyanmonteiro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/matheusyanmonteiro/subscriptions",
+            "organizations_url": "https://api.github.com/users/matheusyanmonteiro/orgs",
+            "repos_url": "https://api.github.com/users/matheusyanmonteiro/repos",
+            "events_url": "https://api.github.com/users/matheusyanmonteiro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/matheusyanmonteiro/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/65/reactions",
             "total_count": 0,
@@ -3180,6 +3697,24 @@
                 "color": "0075ca",
                 "default": false,
                 "description": ""
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
             }
         ],
         "state": "closed",
@@ -3231,7 +3766,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-11-28T23:18:24Z",
-        "updated_at": "2024-12-05T23:23:15Z",
+        "updated_at": "2024-12-09T01:13:11Z",
         "closed_at": "2024-12-05T23:23:15Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -3428,7 +3963,7 @@
         },
         "comments": 0,
         "created_at": "2024-11-28T00:33:48Z",
-        "updated_at": "2024-12-06T00:21:45Z",
+        "updated_at": "2024-12-08T21:42:37Z",
         "closed_at": "2024-11-28T17:08:25Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -5959,6 +6494,24 @@
                 "color": "0075ca",
                 "default": false,
                 "description": ""
+            },
+            {
+                "id": 7677844463,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKb7w",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/ACCEPTED",
+                "name": "ACCEPTED",
+                "color": "00ff00",
+                "default": false,
+                "description": ""
+            },
+            {
+                "id": 7677849653,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKwNQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/MDS",
+                "name": "MDS",
+                "color": "0068b4",
+                "default": false,
+                "description": ""
             }
         ],
         "state": "closed",
@@ -6010,7 +6563,7 @@
         "milestone": null,
         "comments": 4,
         "created_at": "2024-11-22T22:51:49Z",
-        "updated_at": "2024-12-05T19:11:49Z",
+        "updated_at": "2024-12-09T01:13:23Z",
         "closed_at": "2024-12-05T19:11:35Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
@@ -8111,19 +8664,39 @@
                 "description": ""
             }
         ],
-        "state": "open",
+        "state": "closed",
         "locked": false,
         "assignee": null,
         "assignees": [],
         "milestone": null,
         "comments": 0,
         "created_at": "2024-11-06T14:24:46Z",
-        "updated_at": "2024-11-20T20:25:26Z",
-        "closed_at": null,
+        "updated_at": "2024-12-09T03:38:31Z",
+        "closed_at": "2024-12-09T03:38:31Z",
         "author_association": "CONTRIBUTOR",
         "active_lock_reason": null,
         "body": "descri\u00e7\u00e3o: \n\n## Objetivo\nobjetivo \n\n## Aceita\u00e7\u00e3o (se tiver)",
-        "closed_by": null,
+        "closed_by": {
+            "login": "matheusyanmonteiro",
+            "id": 49919267,
+            "node_id": "MDQ6VXNlcjQ5OTE5MjY3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/49919267?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/matheusyanmonteiro",
+            "html_url": "https://github.com/matheusyanmonteiro",
+            "followers_url": "https://api.github.com/users/matheusyanmonteiro/followers",
+            "following_url": "https://api.github.com/users/matheusyanmonteiro/following{/other_user}",
+            "gists_url": "https://api.github.com/users/matheusyanmonteiro/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/matheusyanmonteiro/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/matheusyanmonteiro/subscriptions",
+            "organizations_url": "https://api.github.com/users/matheusyanmonteiro/orgs",
+            "repos_url": "https://api.github.com/users/matheusyanmonteiro/repos",
+            "events_url": "https://api.github.com/users/matheusyanmonteiro/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/matheusyanmonteiro/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/22/reactions",
             "total_count": 0,
@@ -8138,7 +8711,7 @@
         },
         "timeline_url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/22/timeline",
         "performed_via_github_app": null,
-        "state_reason": null
+        "state_reason": "completed"
     },
     {
         "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/21",
