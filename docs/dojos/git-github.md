@@ -95,7 +95,7 @@ De acordo com nossa política de contribuição, devemos seguir o padrão estipu
 ```$ git checkout -b x_nome_da_issue_seu_nome```
 
 ### 3. Stage/Add
-1. Crie um arquivo .js com nome `feature.js` com o conteúdo do [feature.txt](feature.txt);
+1. Crie um arquivo .js com nome `feature.js` com o conteúdo do **feature.txt**;
 2. Salve suas mudanças;
 3. Dê "stage" em suas mudanças. ```$ git add feature.js```
 
