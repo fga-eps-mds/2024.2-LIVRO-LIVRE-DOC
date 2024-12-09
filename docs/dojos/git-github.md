@@ -109,10 +109,7 @@ Envie para o repositório de origem as mudanças feitas.
 ```$ git push origin x_nome_da_issue_seu_nome```
 
 ### 6. Rebase/Merge
-1. Edite o arquivo [dojo.py](dojo.py) conforme as instruções;
+1. Edite o arquivo dojo.py conforme as instruções;
 2. Atualize sua branch com a `main` usando do rebase; ```$ git pull --rebase origin main```
 3. Siga os passos conforme as instruções ministradas e sua linha de comando;
 4. Atualize a sua branch com as novas mudanças. ```$ git push -f origin x_nome_da_issue_seu_nome```
-
-### 7. Abra um Pull Request para a Main
-Siga as instruções dadas em [política de contribuição](https://github.com/fga-eps-mds/EPS-2020-2-G1/blob/main/CONTRIBUTING.md) e seguindo nosso [pull request template](https://github.com/fga-eps-mds/EPS-2020-2-G1/blob/main/.github/pull_request_template.md).
