@@ -7,6 +7,7 @@
 | 08/12/2024 | 0.1    | Criação do documento                           | Jonas Carlos        |
 | 08/12/2024 | 0.2    | Criação dos topicos 1 e 2                      | Jonas Carlos        |
 | 09/12/2024 | 0.2    | Criação dos tópico 3 a 8                      | Mateus Maia      |
+| 17/12/2024 | 1.1    | Alteração dos diagramas Conceitual e Lógico                      | Mateus Maia      |
 
 ---
 
@@ -99,14 +100,22 @@ Diagrama de contexto é uma ferramenta para modelar o escopo através de um diag
 
 A Visão de Dados mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
 
-### Modelo Conceitual 
+### Modelo Conceitual V1
 
-![Conceitual](imagensgestao/conceitual.jpg)
+![ConceitualV1](imagensgestao/conceitualV1.jpeg)
+
+### Modelo Conceitual V2
+
+![ConceitualV2](imagensgestao/conceitualV2.jpeg)
+
+### Modelo Lógico V1
+
+![LogicoV1](imagensgestao/logicoV1.jpeg)
 
 
-### Modelo Lógico 
+### Modelo Lógico V2
 
-![Conceitual](imagensgestao/logico.jpg)
+![LogicoV2](imagensgestao/logicoV2.jpeg)
 
 
 ## 8. Referências
