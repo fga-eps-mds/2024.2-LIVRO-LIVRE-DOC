@@ -1,4 +1,4 @@
-# Guia de Estilo
+# Identidade Visual
 
 ## Histórico de versões
 
