@@ -40,7 +40,7 @@ A fonte utilizada na aplicação será:
 
 ## 5. Elementos de interação
 
-# Componentes da Interface do Usuário
+### Componentes da Interface do Usuário
 
 - **Navbar**: Uma barra horizontal que permite a navegação pelo aplicativo. Cada item da navbar redireciona o usuário para uma tela específica.
 
