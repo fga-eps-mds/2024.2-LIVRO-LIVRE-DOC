@@ -24,8 +24,6 @@ Esta wiki está destinada ao projeto Livro Livre, contendo toda a documentação
 | 222014910    | Pablo Cunha de Jesus               |
 | 222006605    | Bruno Cruz Garcia Rosa             |
 | 202016300    | Gabriel Vieira Santos              |
-| 190030470    | Jessica Luiza Silva de Oliveira    |
-| 190105585    | Eduardo Lopes da Silva Meireles    |
 | 222006122    | João Vitor Alves Viana             |
 | 211063004    | Rafael Magalhães Merenciano        |
 | 2020245301   | Alisson Batista de Oliveira Barbosa|

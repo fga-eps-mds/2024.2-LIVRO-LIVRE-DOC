@@ -1,0 +1,62 @@
+# Política de _Commits_
+
+## Versão
+
+| **Título**        | **Alterações Feitas**                         | **Autor**  | **Data de Hoje**       |
+|-------------------|-----------------------------------------------| -----------| ---------------        |
+| politica de commits   | Criação do documento de política de commits                  | Mateus Maia | 07 de dezembro de 2024 |
+
+
+## Política de _Commits_
+
+Devem seguir o modelo <type>: <description> do [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+
+
+Deve ser um dos seguintes tipos:
+
+- **build**: alterações que afetam o sistema de build ou dependências externas
+- **static**: alterações no conteúdo de arquivos estáticos (dados .json, imagens, etc)
+- **ci**: alterações em nossos arquivos e scripts de configuração de CI
+- **cd**: alterações em nossos arquivos e scripts de configuração para CD
+- **docs**: somente alterações na documentação
+- **feat**: um novo recurso
+- **fix**: uma correção de bug da aplicação
+- **perf**: alteração de código que melhora o desempenho da aplicação e não altera a forma como o usuário utiliza a aplicação
+- **refactor**: alteração de código, que não corrige um bug e nem altera a forma como o usuário utiliza a aplicação
+- **improve**: alguma alteração de código que melhore o comportamento de um recurso
+- **style**: alterações que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula, etc)
+- **test**: adicionando testes ausentes ou corrigindo testes existentes
+- **revert**: reverter para um commit anterior
+
+Por exemplo:
+
+``` 
+  git commit -m "docs: correct spelling of CHANGELOG"
+```
+
+Ao invés de:
+``` 
+  git commit -m "Adding API routing for User service."
+```
+
+### Commits em pares
+Ao se desenvolver funcionalidades utilizando a técnica de _pair programming_, deve se atribuir autoria a ambos os colaboradores. Para isso, deve se utilizar a tag _co-authored-by_ do Github, através dos seguintes passos:
+* Após adicionar todos os arquivos modificados, executar o commit sem flags adicionais:
+```
+git commit
+```
+* Isso abrirá o editor de texto padrão configurado para o Git. Digite a mensagem de commit, e após **duas** linhas em branco, adicione a co-autoria. Exemplo:
+```
+feat: add repo policies
+
+
+Co-authored-by: Nome Sobrenome <nome@exemplo.com>
+```
+
+Dessa forma o commit será contabilizado pelo Github como sendo realizado pelos dois contribuidores, gerando um registro mais detalhado de participação.
+
+
+
+
+
+
