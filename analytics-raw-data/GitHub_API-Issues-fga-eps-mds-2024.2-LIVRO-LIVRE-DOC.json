@@ -6413,7 +6413,7 @@
         "milestone": null,
         "comments": 4,
         "created_at": "2024-12-04T13:06:08Z",
-        "updated_at": "2025-02-04T02:17:27Z",
+        "updated_at": "2025-02-04T12:33:29Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
@@ -6422,7 +6422,7 @@
             "percent_completed": 0
         },
         "active_lock_reason": null,
-        "body": "Eu, como Camilla Marques, Desejo consultar o hist\u00f3rico de empr\u00e9stimos de um livro espec\u00edfico, para analisar o uso da biblioteca.\n\n## Tarefas\n- [x]  Criar uma tela no sistema para exibir o hist\u00f3rico de empr\u00e9stimos de cada livro.\n- [ ]  Recuperar os dados de empr\u00e9stimos dos livros do banco de dados para o administrador logado.\n- [x]  Implementar funcionalidade de ordena\u00e7\u00e3o dos empr\u00e9stimos por data.\n- [x]  Exibir o hist\u00f3rico em formato de Grid com as informa\u00e7\u00f5es pertinentes.\n- [x]  Exibir o nome do usu\u00e1rio que est\u00e1 em posse do livro caso esteja emprestado.\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n\n- [x]  Acima do hist\u00f3rico deve aparecer a capa, t\u00edtulo e autor do livro.\n- [ ] O sistema deve exibir o hist\u00f3rico completo de empr\u00e9stimos do livro.\n- [x] O administrador deve poder ordenar os empr\u00e9stimos por data, de forma crescente ou decrescente.\n- [x] Para o hist\u00f3rico do livro, as informa\u00e7\u00f5es exibidas devem incluir:\n    - [x] Todas as datas de Empr\u00e9stimo\n    - [x] Todas as datas de Devolu\u00e7\u00e3o\n        - [x] Caso o livro tenha sido devolvido, a data de devolu\u00e7\u00e3o ser\u00e1 exibida.\n        - [x] Caso o livro n\u00e3o tenha sido devolvido, a data de devolu\u00e7\u00e3o ser\u00e1 marcada como \"Em posse de ...\".\n    - [x] Status do livro\n        - [x] \"Em posse\" caso o livro n\u00e3o tenha sido devolvido.\n        - [x] \"Devolvido\" caso o livro tenha sido devolvido.\n- [x] O hist\u00f3rico deve ser apresentado em formato de Grid, com cada linha representando um empr\u00e9stimo.\n- [x] Deve ser poss\u00edvel navegar entre as p\u00e1ginas utilizando controles de pagina\u00e7\u00e3o (como bot\u00f5es \"Pr\u00f3ximo\", \"Anterior\" e n\u00fameros de p\u00e1ginas).\n- [x] O sistema de pesquisa dever\u00e1 exibir os resultados paginados, apresentando at\u00e9 20 empr\u00e9stimos por p\u00e1gina.\n- [x] Os filtros dispon\u00edveis para pesquisa no hist\u00f3rico de empr\u00e9stimos s\u00e3o:\n    - [x] Por Data: permite selecionar um intervalo de datas espec\u00edfico para localizar registros.\n    - [x] Por Usu\u00e1rio: Identifica o estado atual do livro, indentificar se tal usu\u00e1rio j\u00e1 teve contato com o livro.\n    - [ ] Por Dura\u00e7\u00e3o do Empr\u00e9stimo: Ajuda a filtrar registros com base no tempo total de empr\u00e9stimo, como curto, m\u00e9dio ou longo prazo.\n\n## Prot\u00f3tipo\n\nlink:\nhttps://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=440-56&p=f&t=Ihjjfg1JCczToBCG-0",
+        "body": "Eu, como Camilla Marques, Desejo consultar o hist\u00f3rico de empr\u00e9stimos de um livro espec\u00edfico, para analisar o uso da biblioteca.\n\n## Tarefas\n- [x]  Criar uma tela no sistema para exibir o hist\u00f3rico de empr\u00e9stimos de cada livro.\n- [ ]  Recuperar os dados de empr\u00e9stimos dos livros do banco de dados para o administrador logado.\n- [x]  Implementar funcionalidade de ordena\u00e7\u00e3o dos empr\u00e9stimos por data.\n- [x]  Exibir o hist\u00f3rico em formato de Grid com as informa\u00e7\u00f5es pertinentes.\n- [x]  Exibir o nome do usu\u00e1rio que est\u00e1 em posse do livro caso esteja emprestado.\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n\n- [x]  Acima do hist\u00f3rico deve aparecer a capa, t\u00edtulo e autor do livro.\n- [ ] O sistema deve exibir o hist\u00f3rico completo de empr\u00e9stimos do livro.\n- [x] O administrador deve poder ordenar os empr\u00e9stimos por data, de forma crescente ou decrescente.\n- [x] Para o hist\u00f3rico do livro, as informa\u00e7\u00f5es exibidas devem incluir:\n    - [x] Todas as datas de Empr\u00e9stimo\n    - [x] Todas as datas de Devolu\u00e7\u00e3o\n        - [x] Caso o livro tenha sido devolvido, a data de devolu\u00e7\u00e3o ser\u00e1 exibida.\n        - [x] Caso o livro n\u00e3o tenha sido devolvido, a data de devolu\u00e7\u00e3o ser\u00e1 marcada como \"Em posse de ...\".\n    - [x] Status do livro\n        - [x] \"Em posse\" caso o livro n\u00e3o tenha sido devolvido.\n        - [x] \"Devolvido\" caso o livro tenha sido devolvido.\n- [x] O hist\u00f3rico deve ser apresentado em formato de Grid, com cada linha representando um empr\u00e9stimo.\n- [x] Deve ser poss\u00edvel navegar entre as p\u00e1ginas utilizando controles de pagina\u00e7\u00e3o (como bot\u00f5es \"Pr\u00f3ximo\", \"Anterior\" e n\u00fameros de p\u00e1ginas).\n- [x] O sistema de pesquisa dever\u00e1 exibir os resultados paginados, apresentando at\u00e9 20 empr\u00e9stimos por p\u00e1gina.\n- [x] Os filtros dispon\u00edveis para pesquisa no hist\u00f3rico de empr\u00e9stimos s\u00e3o:\n    - [x] Por Data: permite selecionar um intervalo de datas espec\u00edfico para localizar registros.\n    - [x] Por Usu\u00e1rio: Identifica o estado atual do livro, indentificar se tal usu\u00e1rio j\u00e1 teve contato com o livro.\n    - [x] Por Dura\u00e7\u00e3o do Empr\u00e9stimo: Ajuda a filtrar registros com base no tempo total de empr\u00e9stimo, como curto, m\u00e9dio ou longo prazo.\n\n## Prot\u00f3tipo\n\nlink:\nhttps://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=440-56&p=f&t=Ihjjfg1JCczToBCG-0",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/67/reactions",
@@ -6551,27 +6551,6 @@
                 "repos_url": "https://api.github.com/users/mateusmaiamaia/repos",
                 "events_url": "https://api.github.com/users/mateusmaiamaia/events{/privacy}",
                 "received_events_url": "https://api.github.com/users/mateusmaiamaia/received_events",
-                "type": "User",
-                "user_view_type": "public",
-                "site_admin": false
-            },
-            {
-                "login": "gsVieiraaa",
-                "id": 101344435,
-                "node_id": "U_kgDOBgpksw",
-                "avatar_url": "https://avatars.githubusercontent.com/u/101344435?v=4",
-                "gravatar_id": "",
-                "url": "https://api.github.com/users/gsVieiraaa",
-                "html_url": "https://github.com/gsVieiraaa",
-                "followers_url": "https://api.github.com/users/gsVieiraaa/followers",
-                "following_url": "https://api.github.com/users/gsVieiraaa/following{/other_user}",
-                "gists_url": "https://api.github.com/users/gsVieiraaa/gists{/gist_id}",
-                "starred_url": "https://api.github.com/users/gsVieiraaa/starred{/owner}{/repo}",
-                "subscriptions_url": "https://api.github.com/users/gsVieiraaa/subscriptions",
-                "organizations_url": "https://api.github.com/users/gsVieiraaa/orgs",
-                "repos_url": "https://api.github.com/users/gsVieiraaa/repos",
-                "events_url": "https://api.github.com/users/gsVieiraaa/events{/privacy}",
-                "received_events_url": "https://api.github.com/users/gsVieiraaa/received_events",
                 "type": "User",
                 "user_view_type": "public",
                 "site_admin": false
