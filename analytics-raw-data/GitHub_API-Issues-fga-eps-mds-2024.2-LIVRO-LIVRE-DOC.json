@@ -481,7 +481,7 @@
         "milestone": null,
         "comments": 2,
         "created_at": "2025-01-12T01:35:56Z",
-        "updated_at": "2025-01-21T23:58:30Z",
+        "updated_at": "2025-02-05T21:52:05Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
@@ -490,7 +490,7 @@
             "percent_completed": 0
         },
         "active_lock_reason": null,
-        "body": "## Descri\u00e7\u00e3o\n\nEu, como Ana Clara, desejo pesquisar livros pelo t\u00edtulo ou autor, para encontrar rapidamente o livro que procuro.\n\n## Tarefas\n- [x] Criar um campo de busca no frontend:\n    - [x] Permitir a busca por t\u00edtulo, autor ou tema.\n    - [x] Posicionar o campo de busca na parte superior da tela.\n    - [x] Adicionar um bot\u00e3o de pesquisa ao lado do campo de busca.\n- [ ] Implementar a l\u00f3gica de busca no backend:\n    - [x] Desenvolver endpoint que receba t\u00edtulo, autor ou tema como par\u00e2metros.\n    - [ ] Realizar consulta no banco de dados para obter resultados relevantes.\n    - [ ] Garantir que a consulta seja otimizada para responder em no m\u00e1ximo 2 segundos.\n    - [x] Ordenar os resultados pela relev\u00e2ncia, considerando crit\u00e9rios como:\n        - [x] Nota m\u00e9dia do livro (avalia\u00e7\u00f5es dos usu\u00e1rios).\n        - [x] T\u00edtulos ou autores que correspondam exatamente ao termo de pesquisa.\n        - [x] Frequ\u00eancia de empr\u00e9stimos ou popularidade do livro.\n\n- [x] Exibir os resultados da pesquisa:\n    - [x] Exibir os resultados em formato de grid no frontend.\n    - [x] Garantir que cada item do grid inclua:\n        - [x] Capa do livro.\n        - [x] T\u00edtulo do livro.\n        - [x] Autor do livro.\n        - [x] Nota m\u00e9dia do livro (com visualiza\u00e7\u00e3o de estrelas ou nota num\u00e9rica).\n    - [x] Ordenar os resultados conforme a nota dos usu\u00e1rios (maior para menor).\n- [x] Tratar situa\u00e7\u00f5es sem resultados:\n    - [x] Exibir a mensagem \"Nenhum livro encontrado para a pesquisa realizada. Tente outros termos.\" caso n\u00e3o haja resultados.\n- [x] Garantir a responsividade da interface:\n    - [x] Ajustar o layout do grid para diferentes tamanhos de tela (desktop e dispositivos m\u00f3veis).\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n- [ ] O sistema deve retornar resultados precisos e relevantes com base no t\u00edtulo, autor ou tema fornecido pelo usu\u00e1rio.  \n- [ ] O tempo de resposta da pesquisa n\u00e3o deve exceder 2 segundos, garantindo uma experi\u00eancia \u00e1gil.  \n- [x] Os resultados da pesquisa devem ser exibidos em formato de grid, organizados de maneira clara e visualmente atraente.  \n- [x] Cada item nos resultados da pesquisa deve apresentar, no m\u00ednimo, a capa do livro, o t\u00edtulo e o nome do autor.\n- [x] Caso nenhum resultado seja encontrado, o sistema deve exibir a mensagem: \"Nenhum livro encontrado para a pesquisa realizada. Tente outros termos.\"    \n- [x] O bot\u00e3o de pesquisa deve ficar na parte superior da tela.\n- [x] O sistema de pesquisa dever\u00e1 exibir os resultados paginados, apresentando at\u00e9 20 livros por p\u00e1gina.\n- [x] Deve ser poss\u00edvel navegar entre as p\u00e1ginas utilizando controles de pagina\u00e7\u00e3o (como bot\u00f5es \"Pr\u00f3ximo\", \"Anterior\", ou n\u00fameros de p\u00e1ginas).\n- [ ] O campo de pesquisa dos livros n\u00e3o deve impor qualquer limita\u00e7\u00e3o de caracteres.\n\n\n## Prot\u00f3tipo\n\nhttps://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=172-4&p=f&t=lT4R8ONZmcjjczL9-0",
+        "body": "## Descri\u00e7\u00e3o\n\nEu, como Ana Clara, desejo pesquisar livros pelo t\u00edtulo ou autor, para encontrar rapidamente o livro que procuro.\n\n## Tarefas\n- [x] Criar um campo de busca no frontend:\n    - [x] Permitir a busca por t\u00edtulo, autor ou tema.\n    - [x] Posicionar o campo de busca na parte superior da tela.\n    - [x] Adicionar um bot\u00e3o de pesquisa ao lado do campo de busca.\n- [ ] Implementar a l\u00f3gica de busca no backend:\n    - [x] Desenvolver endpoint que receba t\u00edtulo, autor ou tema como par\u00e2metros.\n    - [ ] Realizar consulta no banco de dados para obter resultados relevantes.\n    - [ ] Garantir que a consulta seja otimizada para responder em no m\u00e1ximo 2 segundos.\n    - [x] Ordenar os resultados pela relev\u00e2ncia, considerando crit\u00e9rios como:\n        - [x] Nota m\u00e9dia do livro (avalia\u00e7\u00f5es dos usu\u00e1rios).\n        - [x] T\u00edtulos ou autores que correspondam exatamente ao termo de pesquisa.\n        - [x] Frequ\u00eancia de empr\u00e9stimos ou popularidade do livro.\n\n- [x] Exibir os resultados da pesquisa:\n    - [x] Exibir os resultados em formato de grid no frontend.\n    - [x] Garantir que cada item do grid inclua:\n        - [x] Capa do livro.\n        - [x] T\u00edtulo do livro.\n        - [x] Autor do livro.\n        - [x] Nota m\u00e9dia do livro (com visualiza\u00e7\u00e3o de estrelas ou nota num\u00e9rica).\n    - [x] Ordenar os resultados conforme a nota dos usu\u00e1rios (maior para menor).\n- [x] Tratar situa\u00e7\u00f5es sem resultados:\n    - [x] Exibir a mensagem \"Nenhum livro encontrado para a pesquisa realizada. Tente outros termos.\" caso n\u00e3o haja resultados.\n- [x] Garantir a responsividade da interface:\n    - [x] Ajustar o layout do grid para diferentes tamanhos de tela (desktop e dispositivos m\u00f3veis).\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n- [x] O sistema deve retornar resultados precisos e relevantes com base no t\u00edtulo, autor ou tema fornecido pelo usu\u00e1rio.  \n- [ ] O tempo de resposta da pesquisa n\u00e3o deve exceder 2 segundos, garantindo uma experi\u00eancia \u00e1gil.  \n- [x] Os resultados da pesquisa devem ser exibidos em formato de grid, organizados de maneira clara e visualmente atraente.  \n- [x] Cada item nos resultados da pesquisa deve apresentar, no m\u00ednimo, a capa do livro, o t\u00edtulo e o nome do autor.\n- [x] Caso nenhum resultado seja encontrado, o sistema deve exibir a mensagem: \"Nenhum livro encontrado para a pesquisa realizada. Tente outros termos.\"    \n- [x] O bot\u00e3o de pesquisa deve ficar na parte superior da tela.\n- [x] O sistema de pesquisa dever\u00e1 exibir os resultados paginados, apresentando at\u00e9 20 livros por p\u00e1gina.\n- [x] Deve ser poss\u00edvel navegar entre as p\u00e1ginas utilizando controles de pagina\u00e7\u00e3o (como bot\u00f5es \"Pr\u00f3ximo\", \"Anterior\", ou n\u00fameros de p\u00e1ginas).\n- [ ] O campo de pesquisa dos livros n\u00e3o deve impor qualquer limita\u00e7\u00e3o de caracteres.\n\n\n## Prot\u00f3tipo\n\nhttps://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=172-4&p=f&t=lT4R8ONZmcjjczL9-0",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/104/reactions",
@@ -6150,6 +6150,24 @@
                 "color": "BE71F6",
                 "default": false,
                 "description": ""
+            },
+            {
+                "id": 7677850485,
+                "node_id": "LA_kwDONFyTcs8AAAAByaKzdQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/frontend",
+                "name": "frontend",
+                "color": "128eec",
+                "default": false,
+                "description": null
+            },
+            {
+                "id": 7677860925,
+                "node_id": "LA_kwDONFyTcs8AAAAByaLcPQ",
+                "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/labels/backend",
+                "name": "backend",
+                "color": "0e8a16",
+                "default": false,
+                "description": null
             }
         ],
         "state": "open",
@@ -6243,7 +6261,7 @@
         "milestone": null,
         "comments": 0,
         "created_at": "2024-12-04T13:06:30Z",
-        "updated_at": "2025-01-27T00:36:03Z",
+        "updated_at": "2025-02-05T20:41:05Z",
         "closed_at": null,
         "author_association": "CONTRIBUTOR",
         "sub_issues_summary": {
@@ -6252,7 +6270,7 @@
             "percent_completed": 0
         },
         "active_lock_reason": null,
-        "body": "Eu, como Camilla Marques, desejo exportar dados baseados em par\u00e2metros espec\u00edficos, para personalizar relat\u00f3rios conforme minhas necessidades de an\u00e1lise\n## Tarefas\n- [ ] Criar uma tela no sistema para selecionar os par\u00e2metros desejados para exporta\u00e7\u00e3o.\n- [x] Garantir que os dados sejam organizados de forma leg\u00edvel no arquivo exportado.\n- [x] Exibir mensagens de sucesso ou erro durante o processo de exporta\u00e7\u00e3o.\n- [x] Garantir que os dados exportados sejam consistentes com os filtros aplicados.\n- [x] Implementar l\u00f3gica para organizar os dados no formato CSV.\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n- [ ] Permitir a sele\u00e7\u00e3o de m\u00faltiplos filtros como:\n    - [ ] Intervalo de datas.\n    - [x] Categoria ou tipo de dados.\n    - [x] Identifica\u00e7\u00e3o de usu\u00e1rios ou livro especifico.\n- [x] O arquivo gerado deve conter apenas os dados correspondentes aos filtros aplicados.\n- [x] O processo deve ser intuitivo, com instru\u00e7\u00f5es claras para o administrador.\n- [ ] Ao filtrar algum dado, ter um campo de pesquisa para procurar dados espec\u00edficos de cada item\n     - [x] Poder filtrar usu\u00e1rios espec\u00edficos por nome ou data de cria\u00e7\u00e3o.\n     - [ ] Poder filtrar livros por autor, nome ou tema.\n- [x] O sistema deve exibir uma mensagem de sucesso ap\u00f3s a exporta\u00e7\u00e3o.\n     - [x] Caso o arquivo seja gerado com sucesso, um bot\u00e3o para download dele aparecer.\n- [ ] Em caso de falha na exporta\u00e7\u00e3o, o sistema deve informar o motivo do erro.\n\n## Prot\u00f3tipo\n\nlink https://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=695-55&p=f&t=idADjM7igpUdSVJC-0",
+        "body": "Eu, como Camilla Marques, desejo exportar dados baseados em par\u00e2metros espec\u00edficos, para personalizar relat\u00f3rios conforme minhas necessidades de an\u00e1lise\n## Tarefas\n- [x] Criar uma tela no sistema para selecionar os par\u00e2metros desejados para exporta\u00e7\u00e3o.\n- [x] Garantir que os dados sejam organizados de forma leg\u00edvel no arquivo exportado.\n- [x] Exibir mensagens de sucesso ou erro durante o processo de exporta\u00e7\u00e3o.\n- [x] Garantir que os dados exportados sejam consistentes com os filtros aplicados.\n- [x] Implementar l\u00f3gica para organizar os dados no formato CSV.\n\n## Crit\u00e9rios de Aceita\u00e7\u00e3o\n- [x] Permitir a sele\u00e7\u00e3o de m\u00faltiplos filtros como:\n    - [ ] Intervalo de datas.\n    - [x] Categoria ou tipo de dados.\n    - [x] Identifica\u00e7\u00e3o de usu\u00e1rios ou livro especifico.\n- [x] O arquivo gerado deve conter apenas os dados correspondentes aos filtros aplicados.\n- [x] O processo deve ser intuitivo, com instru\u00e7\u00f5es claras para o administrador.\n- [x] Ao filtrar algum dado, ter um campo de pesquisa para procurar dados espec\u00edficos de cada item\n     - [x] Poder filtrar usu\u00e1rios espec\u00edficos por nome ou data de cria\u00e7\u00e3o.\n     - [x] Poder filtrar livros por autor, nome ou tema.\n- [x] O sistema deve exibir uma mensagem de sucesso ap\u00f3s a exporta\u00e7\u00e3o.\n     - [x] Caso o arquivo seja gerado com sucesso, um bot\u00e3o para download dele aparecer.\n- [x] Em caso de falha na exporta\u00e7\u00e3o, o sistema deve informar o motivo do erro.\n\n## Prot\u00f3tipo\n\nlink https://www.figma.com/design/edZfZi6v6sV8lmFCfGCMPW/Livro-Livre?node-id=695-55&p=f&t=idADjM7igpUdSVJC-0",
         "closed_by": null,
         "reactions": {
             "url": "https://api.github.com/repos/fga-eps-mds/2024.2-LIVRO-LIVRE-DOC/issues/68/reactions",
